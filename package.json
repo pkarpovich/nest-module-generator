@@ -1,0 +1,28 @@
+{
+  "name": "nest-module-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "plop": "plop",
+    "lint": "eslint '**/*.js'",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pkarpovich/nest-module-generator.git"
+  },
+  "author": "Pavel Karpovich",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pkarpovich/nest-module-generator/issues"
+  },
+  "homepage": "https://github.com/pkarpovich/nest-module-generator#readme",
+  "dependencies": {
+    "plop": "^2.5.3"
+  },
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "prettier": "1.19.1"
+  }
+}
